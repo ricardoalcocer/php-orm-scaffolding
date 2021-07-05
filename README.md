@@ -2,9 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/musicasateam">
-    <img src="https://avatars.githubusercontent.com/u/66172043?s=400&u=702e6310ffa7ae63613f14188367d855ba783aa6&v=4" alt="Logo" width="80" height="80">
-  </a>
+  
 
 
   <h3 align="center">PHP-ORM-SCAFFOLDING</h3>
