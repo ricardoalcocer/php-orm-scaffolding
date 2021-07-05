@@ -19,4 +19,11 @@
     $capsule->setAsGlobal();
     $capsule->bootEloquent();
 
-    print_r("Here");
+    /*
+
+    1. fill out your db details
+    2. got to app/models/FirstModel and make it point to one of your tables
+    3. uncomment line below
+    */
+
+    //print_r(FirstModel::all()->toArray();
